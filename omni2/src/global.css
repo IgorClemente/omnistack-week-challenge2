@@ -17,3 +17,9 @@ body {
   background: #e5e6f0;
   -webkit-font-smoothing: antialiased;
 }
+
+body,
+input,
+button {
+  font-family: Roboto, sans-serif;
+}
